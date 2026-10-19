@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "resource": "zero_hud",
+  "version": "1.2.2",
+  "download": "https://portal.cfx.re/assets/granted-assets",
+  "notes": [
+    "Chaleco, estamina y oxígeno aparecen únicamente cuando su contexto está activo.",
+    "El estrés respeta el porcentaje configurado por cada jugador.",
+    "El micrófono y las barras verticales se compactan automáticamente.",
+    "Se corrige el porcentaje real de estamina y la detección de inmersión.",
+    "Daño de vehículo configurable por State Bag o proveedor personalizado, con retorno seguro al dato nativo.",
+    "Qbox usa sus eventos de metadatos y exports propios para el estrés."
+  ]
+}
